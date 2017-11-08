@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\TetriminoWeek2Task.cs\TetriminoWeek2Task.cs\bin\Debug\TetriminoWeek2Task.cs.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\TetriminoWeek2Task.cs\TetriminoWeek2Task.cs\bin\Debug\TetriminoWeek2Task.cs.exe
+c:\users\administrator\documents\visual studio 2015\Projects\TetriminoWeek2Task.cs\TetriminoWeek2Task.cs\bin\Debug\TetriminoWeek2Task.cs.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\TetriminoWeek2Task.cs\TetriminoWeek2Task.cs\obj\Debug\TetriminoWeek2Task.cs.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\TetriminoWeek2Task.cs\TetriminoWeek2Task.cs\obj\Debug\TetriminoWeek2Task.cs.exe
+c:\users\administrator\documents\visual studio 2015\Projects\TetriminoWeek2Task.cs\TetriminoWeek2Task.cs\obj\Debug\TetriminoWeek2Task.cs.pdb
+D:\TetriminoWeek2Task.cs\bin\Debug\TetriminoWeek2Task.cs.exe.config
+D:\TetriminoWeek2Task.cs\obj\Debug\TetriminoWeek2Task.cs.exe
+D:\TetriminoWeek2Task.cs\obj\Debug\TetriminoWeek2Task.cs.pdb

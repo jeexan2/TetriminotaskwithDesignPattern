@@ -1,0 +1,11 @@
+D:\TetriminoWeek2Task.cs\bin\Debug\TetriminoWeek2Task.cs.exe.config
+D:\TetriminoWeek2Task.cs\bin\Debug\TetriminoWeek2Task.cs.exe
+D:\TetriminoWeek2Task.cs\bin\Debug\TetriminoWeek2Task.cs.pdb
+D:\TetriminoWeek2Task.cs\obj\Debug\TetriminoWeek2Task.cs.exe
+D:\TetriminoWeek2Task.cs\obj\Debug\TetriminoWeek2Task.cs.pdb
+D:\TetriminoWeek3\bin\Debug\TetriminoWeek2Task.cs.exe.config
+D:\TetriminoWeek3\bin\Debug\TetriminoWeek2Task.cs.exe
+D:\TetriminoWeek3\bin\Debug\TetriminoWeek2Task.cs.pdb
+D:\TetriminoWeek3\obj\Debug\TetriminoWeek3Task.cs.csprojResolveAssemblyReference.cache
+D:\TetriminoWeek3\obj\Debug\TetriminoWeek2Task.cs.exe
+D:\TetriminoWeek3\obj\Debug\TetriminoWeek2Task.cs.pdb
